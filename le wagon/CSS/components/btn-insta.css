@@ -1,0 +1,15 @@
+ @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Raleway:wght@300&display=swap");
+.insta-btn {
+	background-color: #d7ffd0;
+	padding: 15px 15px;
+	border-radius: 4px;
+	color:black;
+	font-weight: bold;
+	font-family: "Oswald", sans-serif;
+	font-size: 25px;
+}
+
+.insta-btn:hover {
+	background-color: lavender;
+	color: black;
+}
